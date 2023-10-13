@@ -15,7 +15,7 @@ const url = `https://api.arkhamintelligence.com/transfers?base=${process.env.ETH
 
 fetch(url, {
   headers: {
-    'Authorization': `Bearer ${process.env.ARKHAM}`
+    'Authorization': `API-KEY${process.env.ARKHAM}`
   }
 })
 .then(response => response.json())
