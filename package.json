@@ -1,0 +1,22 @@
+{
+  "name": "query2",
+  "version": "1.0.2",
+  "description": "Tracking transactions",
+  "main": "QUERY2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anky",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ps3"
+  },
+  "keywords": [
+    "none"
+  ]
+}
