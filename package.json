@@ -1,5 +1,5 @@
 {
-  "name": "query2",
+  "name": "ape.js",
   "version": "1.0.2",
   "description": "Tracking transactions",
   "main": "QUERY2.js",
@@ -22,5 +22,6 @@
   },
   "keywords": [
     "none"
-  ]
+  ],
+  "devDependencies": {}
 }
