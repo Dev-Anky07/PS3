@@ -10,7 +10,7 @@ with open('response.json') as file:
 graph = nx.DiGraph()
 
 # Set the maximum number of connections to visualize
-max_connections = 100
+max_connections = 20
 connections_count = 0
 
 # Iterate over the JSON data and add edges to the graph
